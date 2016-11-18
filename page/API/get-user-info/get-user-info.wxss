@@ -1,0 +1,24 @@
+.page-body-info {
+  height: 450rpx;
+}
+.userinfo-avatar {
+  border-radius: 128rpx;
+  width: 128rpx;
+  height: 128rpx;
+}
+.userinfo-nickname {
+  margin-top: 20rpx;
+  font-size: 38rpx;
+}
+.userinfo-city {
+  margin-top: 10rpx;
+  font-size: 25rpx;
+}
+.userinfo-province {
+  margin-top: 10rpx;
+  font-size: 25rpx;
+}
+.userinfo-unionId {
+  margin-top: 10rpx;
+  font-size: 25rpx;
+}
